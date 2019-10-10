@@ -1,4 +1,4 @@
-module bidimen_mux
+module bidim_mux
 # (
     parameter WIDTH = 2,
     parameter DEPTH = 4

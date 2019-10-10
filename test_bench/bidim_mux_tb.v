@@ -26,7 +26,7 @@ module bidim_mux_tb ();
   endgenerate
 
   /* dut */
-  bidimen_mux
+  bidim_mux
     # (
         .WIDTH (WIDTH),
         .DEPTH (DEPTH)
